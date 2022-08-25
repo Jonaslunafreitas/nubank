@@ -1,6 +1,6 @@
-# nubank
+# Nubank Template
+<img  alt="Podcastr"  title="Podcastr"  src="https://raw.githubusercontent.com/Jonaslunafreitas/TrabalhoFrontEnd/main/2022-08-25_19-19-07_Trim_AdobeExpress.gif" />
 
-A new Flutter project.
 
 ## Getting Started
 
